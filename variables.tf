@@ -1,6 +1,6 @@
 variable "name" {
     type = string
-    default = "rg-test01-emran"
+    default = "rg-test02-emran"
     description = "All the resources will be deployed here "
 }
 
